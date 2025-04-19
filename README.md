@@ -1,6 +1,6 @@
 # اکسپرت سفارش دوتایی (2OrderExpert)
 
-![Farnad Tech]([https://via.placeholder.com/150x50?text=FarnadTech](https://farnadtech.com/wp-content/uploads/2025/04/farnad-tech-150-x-150-px-e1744261331307.png))
+![Farnad Tech](https://farnadtech.com/wp-content/uploads/2025/04/farnad-tech-150-x-150-px-e1744261331307.png)
 
 ## معرفی
 اکسپرت سفارش دوتایی، ابزاری هوشمند برای معامله‌گران متاتریدر ۵ است که به شما امکان می‌دهد دو سفارش در فاصله معین از یکدیگر را به صورت خودکار ثبت کنید.
