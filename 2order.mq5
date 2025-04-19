@@ -235,7 +235,7 @@ void CreatePanel()
                rightX + 10, infoStartY + (2 * infoRowHeight), clrDarkBlue);
    
    // تلگرام
-   CreateLabel(prefixName+"label_telegram", "تلگرام: @FarnadTech", 
+   CreateLabel(prefixName+"label_telegram", "تلگرام: @farnad_tech", 
                rightX + 10, infoStartY + (3 * infoRowHeight), clrDarkBlue);
    
    // توضیحات محصول
@@ -708,7 +708,7 @@ void ContactUs()
    string message = "برای تماس با ما از طریق یکی از روش‌های زیر اقدام کنید:\n\n";
    message += "ایمیل: info@farnadtech.com\n";
    message += "وب‌سایت: https://www.farnadtech.com/contact\n";
-   message += "تلگرام: @FarnadTech";
+   message += "تلگرام: @Farnad_Tech";
    
    MessageBox(message, "تماس با Farnad Tech", MB_OK|MB_ICONINFORMATION);
    Print("پیام راهنمای تماس با Farnad Tech نمایش داده شد");
